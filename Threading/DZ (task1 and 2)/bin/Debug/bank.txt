@@ -1,0 +1,3 @@
+p = 10%
+name = Privat24
+money = 43000$

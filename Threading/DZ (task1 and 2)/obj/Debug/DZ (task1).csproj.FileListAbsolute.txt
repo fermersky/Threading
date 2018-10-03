@@ -1,0 +1,5 @@
+C:\Users\PKO\Desktop\Threading\DZ (task1)\bin\Debug\DZ (task1).exe.config
+C:\Users\PKO\Desktop\Threading\DZ (task1)\bin\Debug\DZ (task1).exe
+C:\Users\PKO\Desktop\Threading\DZ (task1)\bin\Debug\DZ (task1).pdb
+C:\Users\PKO\Desktop\Threading\DZ (task1)\obj\Debug\DZ (task1).exe
+C:\Users\PKO\Desktop\Threading\DZ (task1)\obj\Debug\DZ (task1).pdb

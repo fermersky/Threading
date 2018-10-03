@@ -1,0 +1,9 @@
+C:\Users\PKO\Desktop\Threading\Threading\obj\Debug\Threading.csprojResolveAssemblyReference.cache
+C:\Users\PKO\Desktop\Threading\Threading\obj\Debug\Threading.Form1.resources
+C:\Users\PKO\Desktop\Threading\Threading\obj\Debug\Threading.Properties.Resources.resources
+C:\Users\PKO\Desktop\Threading\Threading\obj\Debug\Threading.csproj.GenerateResource.Cache
+C:\Users\PKO\Desktop\Threading\Threading\bin\Debug\Threading.exe.config
+C:\Users\PKO\Desktop\Threading\Threading\bin\Debug\Threading.exe
+C:\Users\PKO\Desktop\Threading\Threading\bin\Debug\Threading.pdb
+C:\Users\PKO\Desktop\Threading\Threading\obj\Debug\Threading.exe
+C:\Users\PKO\Desktop\Threading\Threading\obj\Debug\Threading.pdb
